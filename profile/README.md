@@ -2,7 +2,7 @@
 [![Maven Central Version](https://img.shields.io/maven-central/v/es.iti.wakamiti/wakamiti-engine?logo=circle&logoColor=red)](https://mvnrepository.com/search?q=wakamiti)
 
 
-![Wakamiti logo](images/logo_wakamiti_bright.svg#gh-dark-mode-only)
+![Wakamiti logo](images/logo_wakamiti_bright.svg#gh-light-mode-only)
 ![Wakamiti logo](images/logo_wakamiti_dark.svg#gh-dark-mode-only)
 
 ---
