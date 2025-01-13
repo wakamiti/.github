@@ -1,47 +1,51 @@
-[![Docker Image Version](https://img.shields.io/docker/v/wakamiti/wakamiti?label=docker&logo=docker)](https://hub.docker.com/r/wakamiti/wakamiti)
-[![Maven Central Version](https://img.shields.io/maven-central/v/es.iti.wakamiti/wakamiti-engine?logo=circle&logoColor=red)](https://mvnrepository.com/search?q=wakamiti)
 
-
-![Wakamiti logo](images/logo_wakamiti_bright.svg#gh-light-mode-only)
-![Wakamiti logo](images/logo_wakamiti_dark.svg#gh-dark-mode-only)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/logo_wakamiti_dark.svg">
+  <img alt="Wakamiti" src="./images/logo_wakamiti_bright.svg">
+</picture>
+</p>
 
 ---
+![Maven Central Version](https://img.shields.io/maven-central/v/es.iti.wakamiti/wakamiti-engine?label=%C3%9Altima%20versi%C3%B3n)
 
-Acknowledgements
+Bienvenido a Wakamiti
 ----------------------------------------------------------------------------------------------------
 
-This software has been developed as a part of the Plan of Non-Economical Activities of
-**Instituto Tecnológico de Informática (ITI)** for the year 2021, funded by
-**Institut Valencià de Competitivitat Empresarial (IVACE)** and **Generalitat Valenciana**,
-by means of the colaboration agreement between IVACE and ITI aimed to enhance their activity
-and capabilities of developing excellence in the matter of independant R&D, spreading
-the results of conducted researches, and driving knowledge transfer among companies from the
+**Wakamiti** es una herramienta de pruebas automáticas inspirada en Cucumber, que permite definir pruebas usando 
+lenguaje natural con la gramática Gherkin. A diferencia de Cucumber, Wakamiti vincula los pasos a un código 
+reutilizable proporcionado por plugins externos, lo que la hace conveniente para probar sistemas a través de protocolos 
+estandarizados como servicios web REST o conexiones JDBC. Es totalmente localizable, fácilmente extensible con plugins 
+personalizados y se puede ejecutar como un conjunto de pruebas JUnit, un objetivo de verificación Maven o un comando de 
+consola.
+
+### Hoja de ruta
+Mantente informado sobre las nuevas versiones en las [notas de lanzamiento públicas](/). Sigue el estado actual
+[en GitHub](/) y participar en una [discusión](https://github.com/orgs/wakamiti/discussions) si has encontrado un 
+posible error, hay una funcionalidad faltante que realmente necesitas, o tienes alguna duda.
+
+### Documentación y tutoriales
+Dirígete a nuestra [documentación](/).
+
+[//]: # (, y echa un vistazo a nuestro [canal de YouTube]&#40;/&#41; para tutoriales interesantes, historias de desarrollo y actualizaciones de la plataforma.)
+
+
+Agradecimientos
+----------------------------------------------------------------------------------------------------
+
+Este software ha sido desarrollado en el marco del Plan de Actuaciones No Económicas del
+**Instituto Tecnológico de Informática (ITI)** para el año 2021, financiado por
+el **Institut Valencià de Competitivitat Empresarial (IVACE)** y la **Generalitat Valenciana**,
+mediante el convenio de colaboración entre IVACE y el ITI destinado a potenciar su actividad
+y capacidades de desarrollo de la excelencia en materia de I+D independiente, difusión
+de los resultados de las investigaciones realizadas y transferencia de conocimiento entre las empresas de la
 *Comunitat Valenciana*.
+
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/footer-dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./images/footer-bright.png">
+  <img alt="Footer" src="./images/footer-bright.png">
 </picture>
 </p>
 
-License
-----------------------------------------------------------------------------------------------------
-
-```
-Mozilla Public License 2.0
-
-This Source Code Form is subject to the terms of the Mozilla Public
-License, v. 2.0. If a copy of the MPL was not distributed with this
-file, You can obtain one at https://mozilla.org/MPL/2.0/.
-```
-
-
-
-Authors
-----------------------------------------------------------------------------------------------------
-
-- **María Galbis Calomarde** - mgalbis@iti.es
-- **Carlos Oliva Miñana** - coliva@iti.es
-- **Julio Montero García** - jmontero@iti.es
- 
