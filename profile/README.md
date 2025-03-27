@@ -25,7 +25,7 @@ Mantente informado sobre las nuevas versiones en las [notas de lanzamiento públ
 posible error, hay una funcionalidad faltante que realmente necesitas, o tienes alguna duda.
 
 ### Documentación y tutoriales
-Dirígete a nuestra [documentación](/).
+Dirígete a nuestra [documentación](https://github.com/wakamiti/.github/wiki).
 
 [//]: # (, y echa un vistazo a nuestro [canal de YouTube]&#40;/&#41; para tutoriales interesantes, historias de desarrollo y actualizaciones de la plataforma.)
 
